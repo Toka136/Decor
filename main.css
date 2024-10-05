@@ -718,7 +718,7 @@ header .right:hover
     grid-template-columns: 45% 53%;
     column-gap: 2%;
     margin-top: 60px;
-    height: 500px;
+    height: auto;
 }
 
 .comments .cont .img
